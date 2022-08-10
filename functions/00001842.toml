@@ -2,3 +2,8 @@
 addr = 6210
 size = 275
 last_change = 1660166834
+
+[header]
+last_change = 1660166834
+name = "edit_contact_name"
+addr = 6210
