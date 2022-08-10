@@ -2,3 +2,8 @@
 addr = 4576
 size = 57
 last_change = 1660152501
+
+[header]
+last_change = 1660152501
+name = "__do_global_dtors_aux"
+addr = 4576
