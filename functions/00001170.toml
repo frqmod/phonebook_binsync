@@ -2,3 +2,8 @@
 addr = 4464
 size = 41
 last_change = 1660166751
+
+[header]
+last_change = 1660166751
+name = "stdin_0"
+addr = 4464
